@@ -1,2 +1,2 @@
 # Game-tictac
- simple demo game
+ simple demo games
