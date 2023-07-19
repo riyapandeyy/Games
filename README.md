@@ -1,2 +1,0 @@
-# Games
- simple demo games
